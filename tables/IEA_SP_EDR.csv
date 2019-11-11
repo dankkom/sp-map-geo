@@ -1,0 +1,646 @@
+COD_IBGE,MUNICÍPIO,EDR,RA,POLO REGIONAL,BACIA HIDROGRÁFICA 
+3500105,Adamantina,Dracena,Presidente Prudente,Alta Paulista,Peixe
+3500204,Adolfo,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Tietê/Batalha
+3500303,Aguaí,São João da Boa Vista,Campinas,Nordeste Paulista,Mogi Guaçú
+3500402,Águas da Prata,São João da Boa Vista,Campinas,Nordeste Paulista,Mogi Guaçú
+3500501,Águas de Lindóia,Bragança Paulista,Campinas,Leste Paulista,Mogi Guaçú
+3500550,Águas de Santa Bárbara,Avaré,Sorocaba,Médio Paranapanema,Médio Paranapanema
+3500600,Águas de São Pedro,Piracicaba,Campinas,Centro Sul,Piracicaba/Capivari
+3500709,Agudos,Bauru,Bauru,Centro Oeste,Tietê/Jacaré
+3500758,Alambari,Itapetininga,Sorocaba,Sudoeste Paulista,Tietê/Sorocaba
+3500808,Alfredo Marcondes,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Peixe
+3500907,Altair,Barretos,Barretos,Alta Mogiana,Baixo Pardo/Grande
+3501004,Altinópolis,Franca ,Ribeirão Preto,Nordeste Paulista,Pardo
+3501103,Alto Alegre,Araçatuba,Araçatuba,Extemo Oeste,Baixo Tietê
+3501152,Alumínio,Sorocaba,Sorocaba,Sedes,Tietê/Sorocaba
+3501202,Álvares Florence,Votuporanga ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3501301,Álvares Machado,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Peixe
+3501400,Álvaro de Carvalho,Marília ,Marília,Centro Oeste,Aguapeí
+3501509,Alvinlândia,Marília ,Marília,Centro Oeste,Médio Paranapanema
+3501608,Americana,Piracicaba,Campinas,Sedes,Piracicaba/Capivari
+3501707,Américo Brasiliense,Araraquara,Central,Centro Leste,Mogi Guaçú
+3501806,Américo de Campos,Votuporanga ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3501905,Amparo,Bragança Paulista,Campinas,Leste Paulista,Piracicaba/Capivari
+3502002,Analândia,Limeira,Campinas,Centro Sul,Piracicaba/Capivari
+3502101,Andradina,Andradina,Araçatuba,Extemo Oeste,Baixo Tietê
+3502200,Angatuba,Itapetininga,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3502309,Anhembi,Botucatu,Sorocaba,Centro Sul,Tietê/Sorocaba
+3502408,Anhumas,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3502507,Aparecida,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3502606,Aparecida D'Oeste,Jales ,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3502705,Apiaí,Itapeva ,Itapeva,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3502754,Araçariguama,Sorocaba,Sorocaba,Sedes,Tietê/Sorocaba
+3502804,Araçatuba,Araçatuba,Araçatuba,Extemo Oeste,Baixo Tietê
+3502903,Araçoiaba da Serra,Sorocaba,Sorocaba,Sedes,Tietê/Sorocaba
+3503000,Aramina,Orlândia,Franca,Alta Mogiana,Sapucaí/Grande
+3503109,Arandu,Avaré,Itapeva,Médio Paranapanema,Alto Paranapanema
+3503158,Arapeí,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3503208,Araraquara,Araraquara,Central,Centro Leste,Tietê/Jacaré
+3503307,Araras,Limeira,Campinas,Centro Sul,Mogi Guaçú
+3503356,Arco-Íris,Tupã,Marília,Alta Paulista,Peixe
+3503406,Arealva,Bauru,Bauru,Centro Oeste,Tietê/Jacaré
+3503505,Areias,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3503604,Areiópolis,Botucatu,Sorocaba,Centro Oeste,Tietê/Jacaré
+3503703,Ariranha,Catanduva,São José do Rio Preto,Centro Norte,Turvo/Grande
+3503802,Artur Nogueira,Mogi Mirim,Campinas,Sedes,Piracicaba/Capivari
+3503901,Arujá,Mogi das Cruzes,São Paulo,Sedes,Alto Tietê
+3503950,Aspásia,Jales ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3504008,Assis,Assis,Marília,Médio Paranapanema,Médio Paranapanema
+3504107,Atibaia,Bragança Paulista,Campinas,Leste Paulista,Piracicaba/Capivari
+3504206,Auriflama,General Salgado,Araçatuba,Noroeste Paulista,São José dos Dourados
+3504305,Avaí,Bauru,Bauru,Centro Oeste,Tietê/Batalha
+3504404,Avanhandava,Araçatuba,Araçatuba,Extemo Oeste,Baixo Tietê
+3504503,Avaré,Avaré,Sorocaba,Médio Paranapanema,Médio Paranapanema
+3504602,Bady Bassitt,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Tietê/Batalha
+3504701,Balbinos,Lins,Bauru,Centro Oeste,Tietê/Batalha
+3504800,Bálsamo,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Turvo/Grande
+3504909,Bananal,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3505005,Barão de Antonina,Avaré,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3505104,Barbosa,Araçatuba,Araçatuba,Extemo Oeste,Baixo Tietê
+3505203,Bariri,Jaú,Bauru,Centro Oeste,Tietê/Jacaré
+3505302,Barra Bonita,Jaú,Bauru,Centro Oeste,Tietê/Jacaré
+3505351,Barra do Chapéu,Itapeva ,Itapeva,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3505401,Barra do Turvo,Registro,Registro,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3505500,Barretos,Barretos,Barretos,Alta Mogiana,Baixo Pardo/Grande
+3505609,Barrinha,Ribeirão Preto,Ribeirão Preto,Centro Leste,Mogi Guaçú
+3505708,Barueri,São Paulo,São Paulo,Sedes,Alto Tietê
+3505807,Bastos,Tupã,Marília,Alta Paulista,Peixe
+3505906,Batatais,Franca ,Franca,Nordeste Paulista,Sapucaí/Grande
+3506003,Bauru,Bauru,Bauru,Centro Oeste,Tietê/Jacaré
+3506102,Bebedouro,Barretos,Barretos,Alta Mogiana,Baixo Pardo/Grande
+3506201,Bento de Abreu,Andradina,Araçatuba,Extemo Oeste,Baixo Tietê
+3506300,Bernardino de Campos,Ourinhos ,Marília,Médio Paranapanema,Alto Paranapanema
+3506359,Bertioga,São Paulo,Baixada Santista,Sedes,Baixada Santista
+3506409,Bilac,Araçatuba,Araçatuba,Extemo Oeste,Baixo Tietê
+3506508,Birigui,Araçatuba,Araçatuba,Extemo Oeste,Baixo Tietê
+3506607,Biritiba-Mirim,Mogi das Cruzes,São Paulo,Sedes,Alto Tietê
+3506706,Boa Esperança do Sul,Araraquara,Central,Centro Leste,Tietê/Jacaré
+3506805,Bocaina,Jaú,Bauru,Centro Oeste,Tietê/Jacaré
+3506904,Bofete,Botucatu,Sorocaba,Centro Sul,Tietê/Sorocaba
+3507001,Boituva,Sorocaba,Sorocaba,Centro Sul,Tietê/Sorocaba
+3507100,Bom Jesus dos Perdões,Bragança Paulista,Campinas,Leste Paulista,Piracicaba/Capivari
+3507159,Bom Sucesso de Itararé,Itapeva ,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3507209,Borá,Assis,Marília,Médio Paranapanema,Peixe
+3507308,Boracéia,Jaú,Bauru,Centro Oeste,Tietê/Jacaré
+3507407,Borborema,Jaboticabal,Central,Centro Norte,Tietê/Batalha
+3507456,Borebi,Bauru,Bauru,Centro Oeste,Tietê/Jacaré
+3507506,Botucatu,Botucatu,Sorocaba,Centro Sul,Tietê/Sorocaba
+3507605,Bragança Paulista,Bragança Paulista,Campinas,Leste Paulista,Piracicaba/Capivari
+3507704,Braúna,Araçatuba,Araçatuba,Extemo Oeste,Baixo Tietê
+3507753,Brejo Alegre,Araçatuba,Araçatuba,Extemo Oeste,Baixo Tietê
+3507803,Brodowski,Ribeirão Preto,Ribeirão Preto,Centro Leste,Pardo
+3507902,Brotas,Jaú,Campinas,Centro Oeste,Tietê/Jacaré
+3508009,Buri,Itapeva ,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3508108,Buritama,General Salgado,Araçatuba,Noroeste Paulista,Baixo Tietê
+3508207,Buritizal,Orlândia,Franca,Alta Mogiana,Sapucaí/Grande
+3508306,Cabrália Paulista,Bauru,Bauru,Centro Oeste,Médio Paranapanema
+3508405,Cabreúva,Sorocaba,Campinas,Sedes,Tietê/Sorocaba
+3508504,Caçapava,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3508603,Cachoeira Paulista,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3508702,Caconde,São João da Boa Vista,Campinas,Nordeste Paulista,Pardo
+3508801,Cafelândia,Lins,Bauru,Centro Oeste,Tietê/Batalha
+3508900,Caiabu,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Peixe
+3509007,Caieiras,São Paulo,São Paulo,Sedes,Alto Tietê
+3509106,Caiuá,Presidente Venceslau,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3509205,Cajamar,São Paulo,São Paulo,Sedes,Alto Tietê
+3509254,Cajati,Registro,Registro,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3509304,Cajobi,Barretos,Barretos,Alta Mogiana,Turvo/Grande
+3509403,Cajuru,Ribeirão Preto,Ribeirão Preto,Nordeste Paulista,Pardo
+3509452,Campina do Monte Alegre,Itapetininga,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3509502,Campinas,Campinas ,Campinas,Sedes,Piracicaba/Capivari
+3509601,Campo Limpo Paulista,Campinas ,Campinas,Sedes,Piracicaba/Capivari
+3509700,Campos do Jordão,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Mantiqueira
+3509809,Campos Novos Paulista,Assis,Marília,Médio Paranapanema,Médio Paranapanema
+3509908,Cananéia,Registro,Registro,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3509957,Canas,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3510005,Cândido Mota,Assis,Marília,Médio Paranapanema,Médio Paranapanema
+3510104,Cândido Rodrigues,Jaboticabal,Central,Centro Norte,Turvo/Grande
+3510153,Canitar,Ourinhos ,Marília,Médio Paranapanema,Médio Paranapanema
+3510203,Capão Bonito,Itapetininga,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3510302,Capela do Alto,Sorocaba,Sorocaba,Sedes,Tietê/Sorocaba
+3510401,Capivari,Piracicaba,Campinas,Centro Sul,Piracicaba/Capivari
+3510500,Caraguatatuba,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Litoral Norte
+3510609,Carapicuíba,São Paulo,São Paulo,Sedes,Alto Tietê
+3510708,Cardoso,Votuporanga ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3510807,Casa Branca,São João da Boa Vista,Campinas,Nordeste Paulista,Pardo
+3510906,Cássia dos Coqueiros,Ribeirão Preto,Ribeirão Preto,Nordeste Paulista,Pardo
+3511003,Castilho,Andradina,Araçatuba,Extemo Oeste,Baixo Tietê
+3511102,Catanduva,Catanduva,São José do Rio Preto,Centro Norte,Turvo/Grande
+3511201,Catiguá,Catanduva,São José do Rio Preto,Centro Norte,Turvo/Grande
+3511300,Cedral,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Turvo/Grande
+3511409,Cerqueira César,Avaré,Sorocaba,Médio Paranapanema,Médio Paranapanema
+3511508,Cerquilho,Piracicaba,Sorocaba,Centro Sul,Tietê/Sorocaba
+3511607,Cesário Lange,Itapetininga,Sorocaba,Sudoeste Paulista,Tietê/Sorocaba
+3511706,Charqueada,Piracicaba,Campinas,Centro Sul,Piracicaba/Capivari
+3557204,Chavantes,Ourinhos ,Marília,Médio Paranapanema,Médio Paranapanema
+3511904,Clementina,Araçatuba,Araçatuba,Extemo Oeste,Aguapeí
+3512001,Colina,Barretos,Barretos,Alta Mogiana,Baixo Pardo/Grande
+3512100,Colômbia,Barretos,Barretos,Alta Mogiana,Baixo Pardo/Grande
+3512209,Conchal,Mogi Mirim,Campinas,Leste Paulista,Mogi Guaçú
+3512308,Conchas,Botucatu,Sorocaba,Centro Sul,Tietê/Sorocaba
+3512407,Cordeirópolis,Limeira,Campinas,Centro Sul,Piracicaba/Capivari
+3512506,Coroados,Araçatuba,Araçatuba,Extemo Oeste,Baixo Tietê
+3512605,Coronel Macedo,Avaré,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3512704,Corumbataí,Limeira,Campinas,Centro Sul,Piracicaba/Capivari
+3512803,Cosmópolis,Mogi Mirim,Campinas,Sedes,Piracicaba/Capivari
+3512902,Cosmorama,Votuporanga ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3513009,Cotia,São Paulo,São Paulo,Sedes,Alto Tietê
+3513108,Cravinhos,Ribeirão Preto,Ribeirão Preto,Centro Leste,Pardo
+3513207,Cristais Paulista,Franca ,Franca,Nordeste Paulista,Sapucaí/Grande
+3513306,Cruzália,Assis,Marília,Médio Paranapanema,Médio Paranapanema
+3513405,Cruzeiro,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3513504,Cubatão,São Paulo,Baixada Santista,Sedes,Baixada Santista
+3513603,Cunha,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3513702,Descalvado,Araraquara,Central,Centro Leste,Mogi Guaçú
+3513801,Diadema,São Paulo,São Paulo,Sedes,Alto Tietê
+3513850,Dirce Reis,Jales ,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3513900,Divinolândia,São João da Boa Vista,Campinas,Nordeste Paulista,Pardo
+3514007,Dobrada,Jaboticabal,Central,Centro Leste,Tietê/Batalha
+3514106,Dois Córregos,Jaú,Bauru,Centro Oeste,Tietê/Jacaré
+3514205,Dolcinópolis,Jales ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3514304,Dourado,Araraquara,Central,Centro Leste,Tietê/Jacaré
+3514403,Dracena,Dracena,Presidente Prudente,Alta Paulista,Aguapeí
+3514502,Duartina,Bauru,Bauru,Centro Oeste,Médio Paranapanema
+3514601,Dumont,Ribeirão Preto,Ribeirão Preto,Centro Leste,Mogi Guaçú
+3514700,Echaporã,Assis,Marília,Médio Paranapanema,Médio Paranapanema
+3514809,Eldorado,Registro,Registro,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3514908,Elias Fausto,Campinas ,Campinas,Sedes,Piracicaba/Capivari
+3514924,Elisiário,Catanduva,São José do Rio Preto,Centro Norte,Tietê/Batalha
+3514957,Embaúba,Barretos,Barretos,Centro Norte,Turvo/Grande
+3515004,Embu das Artes,São Paulo,São Paulo,Sedes,Alto Tietê
+3515103,Embu-Guaçu,São Paulo,São Paulo,Sedes,Alto Tietê
+3515129,Emilianópolis,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Peixe
+3515152,Engenheiro Coelho,Mogi Mirim,Campinas,Sedes,Mogi Guaçú
+3515186,Espírito Santo do Pinhal,São João da Boa Vista,Campinas,Leste Paulista,Mogi Guaçú
+3515194,Espírito Santo do Turvo,Ourinhos ,Marília,Médio Paranapanema,Médio Paranapanema
+3557303,Estiva Gerbi,Mogi Mirim,Campinas,Leste Paulista,Mogi Guaçú
+3515301,Estrela do Norte,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3515202,Estrela D'Oeste,Fernandópolis,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3515350,Euclides da Cunha Paulista,Presidente Venceslau,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3515400,Fartura,Ourinhos ,Itapeva,Médio Paranapanema,Alto Paranapanema
+3515608,Fernando Prestes,Jaboticabal,Central,Centro Norte,Turvo/Grande
+3515509,Fernandópolis,Fernandópolis,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3515657,Fernão,Marília ,Marília,Centro Oeste,Médio Paranapanema
+3515707,Ferraz de Vasconcelos,Mogi das Cruzes,São Paulo,Sedes,Alto Tietê
+3515806,Flora Rica,Dracena,Presidente Prudente,Alta Paulista,Peixe
+3515905,Floreal,General Salgado,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3516002,Flórida Paulista,Dracena,Presidente Prudente,Alta Paulista,Peixe
+3516101,Florínia,Assis,Marília,Médio Paranapanema,Médio Paranapanema
+3516200,Franca,Franca ,Franca,Nordeste Paulista,Sapucaí/Grande
+3516309,Francisco Morato,São Paulo,São Paulo,Sedes,Alto Tietê
+3516408,Franco da Rocha,São Paulo,São Paulo,Sedes,Alto Tietê
+3516507,Gabriel Monteiro,Araçatuba,Araçatuba,Extemo Oeste,Aguapeí
+3516606,Gália,Marília ,Marília,Centro Oeste,Médio Paranapanema
+3516705,Garça,Marília ,Marília,Centro Oeste,Aguapeí
+3516804,Gastão Vidigal,General Salgado,Araçatuba,Noroeste Paulista,Baixo Tietê
+3516853,Gavião Peixoto,Araraquara,Central,Centro Leste,Tietê/Jacaré
+3516903,General Salgado,General Salgado,Araçatuba,Noroeste Paulista,São José dos Dourados
+3517000,Getulina,Lins,Bauru,Centro Oeste,Aguapeí
+3517109,Glicério,Araçatuba,Araçatuba,Extemo Oeste,Baixo Tietê
+3517208,Guaiçara,Lins,Bauru,Centro Oeste,Tietê/Batalha
+3517307,Guaimbê,Lins,Bauru,Centro Oeste,Aguapeí
+3517406,Guaíra,Barretos,Barretos,Alta Mogiana,Sapucaí/Grande
+3517505,Guapiaçu,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Turvo/Grande
+3517604,Guapiara,Itapeva ,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3517703,Guará,Orlândia,Franca,Alta Mogiana,Sapucaí/Grande
+3517802,Guaraçaí,Andradina,Araçatuba,Extemo Oeste,Baixo Tietê
+3517901,Guaraci,Barretos,Barretos,Alta Mogiana,Baixo Pardo/Grande
+3518008,Guarani D'Oeste,Fernandópolis,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3518107,Guarantã,Lins,Bauru,Centro Oeste,Tietê/Batalha
+3518206,Guararapes,Araçatuba,Araçatuba,Extemo Oeste,Baixo Tietê
+3518305,Guararema,Mogi das Cruzes,São Paulo,Sedes,Paraíba do Sul
+3518404,Guaratinguetá,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3518503,Guareí,Itapetininga,Sorocaba,Sudoeste Paulista,Alto Paranapanema
+3518602,Guariba,Jaboticabal,Ribeirão Preto,Centro Leste,Mogi Guaçú
+3518701,Guarujá,São Paulo,Baixada Santista,Sedes,Baixada Santista
+3518800,Guarulhos,São Paulo,São Paulo,Sedes,Alto Tietê
+3518859,Guatapará,Ribeirão Preto,Ribeirão Preto,Centro Leste,Mogi Guaçú
+3518909,Guzolândia,General Salgado,Araçatuba,Noroeste Paulista,São José dos Dourados
+3519006,Herculândia,Tupã,Marília,Alta Paulista,Aguapeí
+3519055,Holambra,Mogi Mirim,Campinas,Sedes,Piracicaba/Capivari
+3519071,Hortolândia,Campinas ,Campinas,Sedes,Piracicaba/Capivari
+3519105,Iacanga,Bauru,Bauru,Centro Oeste,Tietê/Jacaré
+3519204,Iacri,Tupã,Marília,Alta Paulista,Aguapeí
+3519253,Iaras,Avaré,Sorocaba,Médio Paranapanema,Médio Paranapanema
+3519303,Ibaté,Araraquara,Central,Centro Leste,Tietê/Jacaré
+3519402,Ibirá,Catanduva,São José do Rio Preto,Centro Norte,Tietê/Batalha
+3519501,Ibirarema,Assis,Marília,Médio Paranapanema,Médio Paranapanema
+3519600,Ibitinga,Jaboticabal,Central,Centro Norte,Tietê/Jacaré
+3519709,Ibiúna,Sorocaba,Sorocaba,Sedes,Tietê/Sorocaba
+3519808,Icém,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Baixo Pardo/Grande
+3519907,Iepê,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3520004,Igaraçu do Tietê,Jaú,Bauru,Centro Oeste,Tietê/Jacaré
+3520103,Igarapava,Orlândia,Franca,Alta Mogiana,Sapucaí/Grande
+3520202,Igaratá,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3520301,Iguape,Registro,Registro,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3520426,Ilha Comprida,Registro,Registro,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3520442,Ilha Solteira,Andradina,Araçatuba,Extemo Oeste,São José dos Dourados
+3520400,Ilhabela,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Litoral Norte
+3520509,Indaiatuba,Campinas ,Campinas,Sedes,Piracicaba/Capivari
+3520608,Indiana,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Peixe
+3520707,Indiaporã,Fernandópolis,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3520806,Inúbia Paulista,Tupã,Presidente Prudente,Alta Paulista,Peixe
+3520905,Ipaussu,Ourinhos ,Marília,Médio Paranapanema,Alto Paranapanema
+3521002,Iperó,Sorocaba,Sorocaba,Sedes,Tietê/Sorocaba
+3521101,Ipeúna,Limeira,Campinas,Centro Sul,Piracicaba/Capivari
+3521150,Ipiguá,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Turvo/Grande
+3521200,Iporanga,Registro,Itapeva,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3521309,Ipuã,Orlândia,Franca,Alta Mogiana,Sapucaí/Grande
+3521408,Iracemápolis,Limeira,Campinas,Centro Sul,Piracicaba/Capivari
+3521507,Irapuã,Catanduva,São José do Rio Preto,Centro Norte,Tietê/Batalha
+3521606,Irapuru,Dracena,Presidente Prudente,Alta Paulista,Peixe
+3521705,Itaberá,Itapeva ,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3521804,Itaí,Avaré,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3521903,Itajobi,Catanduva,São José do Rio Preto,Centro Norte,Tietê/Batalha
+3522000,Itaju,Jaú,Bauru,Centro Oeste,Tietê/Jacaré
+3522109,Itanhaém,São Paulo,Baixada Santista,Vale do Ribeira,Baixada Santista
+3522158,Itaóca,Itapeva ,Itapeva,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3522208,Itapecerica da Serra,São Paulo,São Paulo,Sedes,Alto Tietê
+3522307,Itapetininga,Itapetininga,Sorocaba,Sudoeste Paulista,Alto Paranapanema
+3522406,Itapeva,Itapeva ,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3522505,Itapevi,São Paulo,São Paulo,Sedes,Alto Tietê
+3522604,Itapira,Mogi Mirim,Campinas,Leste Paulista,Mogi Guaçú
+3522653,Itapirapuã Paulista,Itapeva ,Itapeva,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3522703,Itápolis,Jaboticabal,Central,Centro Norte,Tietê/Batalha
+3522802,Itaporanga,Avaré,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3522901,Itapuí,Jaú,Bauru,Centro Oeste,Tietê/Jacaré
+3523008,Itapura,Andradina,Araçatuba,Extemo Oeste,Baixo Tietê
+3523107,Itaquaquecetuba,Mogi das Cruzes,São Paulo,Sedes,Alto Tietê
+3523206,Itararé,Itapeva ,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3523305,Itariri,Registro,Registro,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3523404,Itatiba,Campinas ,Campinas,Leste Paulista,Piracicaba/Capivari
+3523503,Itatinga,Botucatu,Sorocaba,Centro Sul,Médio Paranapanema
+3523602,Itirapina,Limeira,Campinas,Centro Sul,Tietê/Jacaré
+3523701,Itirapuã,Franca ,Franca,Nordeste Paulista,Sapucaí/Grande
+3523800,Itobi,São João da Boa Vista,Campinas,Nordeste Paulista,Pardo
+3523909,Itu,Sorocaba,Sorocaba,Centro Sul,Tietê/Sorocaba
+3524006,Itupeva,Campinas ,Campinas,Sedes,Piracicaba/Capivari
+3524105,Ituverava,Orlândia,Franca,Alta Mogiana,Sapucaí/Grande
+3524204,Jaborandi,Barretos,Barretos,Alta Mogiana,Baixo Pardo/Grande
+3524303,Jaboticabal,Jaboticabal,Ribeirão Preto,Centro Leste,Mogi Guaçú
+3524402,Jacareí,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3524501,Jaci,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Tietê/Batalha
+3524600,Jacupiranga,Registro,Registro,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3524709,Jaguariúna,Mogi Mirim,Campinas,Sedes,Piracicaba/Capivari
+3524808,Jales,Jales ,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3524907,Jambeiro,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3525003,Jandira,São Paulo,São Paulo,Sedes,Alto Tietê
+3525102,Jardinópolis,Ribeirão Preto,Ribeirão Preto,Centro Leste,Pardo
+3525201,Jarinu,Campinas ,Campinas,Leste Paulista,Piracicaba/Capivari
+3525300,Jaú,Jaú,Bauru,Centro Oeste,Tietê/Jacaré
+3525409,Jeriquara,Franca ,Franca,Nordeste Paulista,Sapucaí/Grande
+3525508,Joanópolis,Bragança Paulista,Campinas,Leste Paulista,Piracicaba/Capivari
+3525607,João Ramalho,Presidente Prudente ,Marília,Alta Sorocabana,Médio Paranapanema
+3525706,José Bonifácio,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Baixo Tietê
+3525805,Júlio Mesquita,Lins,Marília,Centro Oeste,Aguapeí
+3525854,Jumirim,Piracicaba,Sorocaba,Centro Sul,Tietê/Sorocaba
+3525904,Jundiaí,Campinas ,Campinas,Sedes,Piracicaba/Capivari
+3526001,Junqueirópolis,Dracena,Presidente Prudente,Alta Paulista,Peixe
+3526100,Juquiá,Registro,Registro,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3526209,Juquitiba,Registro,São Paulo,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3526308,Lagoinha,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3526407,Laranjal Paulista,Botucatu,Sorocaba,Centro Sul,Tietê/Sorocaba
+3526506,Lavínia,Andradina,Araçatuba,Extemo Oeste,Baixo Tietê
+3526605,Lavrinhas,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3526704,Leme,Limeira,Campinas,Centro Sul,Mogi Guaçú
+3526803,Lençóis Paulista,Jaú,Bauru,Centro Oeste,Tietê/Jacaré
+3526902,Limeira,Limeira,Campinas,Centro Sul,Piracicaba/Capivari
+3527009,Lindóia,Bragança Paulista,Campinas,Leste Paulista,Mogi Guaçú
+3527108,Lins,Lins,Bauru,Centro Oeste,Tietê/Batalha
+3527207,Lorena,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3527256,Lourdes,General Salgado,Araçatuba,Noroeste Paulista,Baixo Tietê
+3527306,Louveira,Campinas ,Campinas,Sedes,Piracicaba/Capivari
+3527405,Lucélia,Tupã,Presidente Prudente,Alta Paulista,Aguapeí
+3527504,Lucianópolis,Bauru,Bauru,Centro Oeste,Médio Paranapanema
+3527603,Luís Antônio,Ribeirão Preto,Ribeirão Preto,Centro Leste,Mogi Guaçú
+3527702,Luiziânia,Araçatuba,Araçatuba,Extemo Oeste,Aguapeí
+3527801,Lupércio,Marília ,Marília,Centro Oeste,Médio Paranapanema
+3527900,Lutécia,Assis,Marília,Médio Paranapanema,Peixe
+3528007,Macatuba,Jaú,Bauru,Centro Oeste,Tietê/Jacaré
+3528106,Macaubal,General Salgado,São José do Rio Preto,Noroeste Paulista,Baixo Tietê
+3528205,Macedônia,Fernandópolis,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3528304,Magda,General Salgado,São José do Rio Preto,Noroeste Paulista,Baixo Tietê
+3528403,Mairinque,Sorocaba,Sorocaba,Sedes,Tietê/Sorocaba
+3528502,Mairiporã,São Paulo,São Paulo,Sedes,Alto Tietê
+3528601,Manduri,Avaré,Sorocaba,Médio Paranapanema,Alto Paranapanema
+3528700,Marabá Paulista,Presidente Venceslau,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3528809,Maracaí,Assis,Marília,Médio Paranapanema,Médio Paranapanema
+3528858,Marapoama,Catanduva,São José do Rio Preto,Centro Norte,Tietê/Batalha
+3528908,Mariápolis,Dracena,Presidente Prudente,Alta Paulista,Peixe
+3529005,Marília,Marília ,Marília,Centro Oeste,Peixe
+3529104,Marinópolis,Jales ,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3529203,Martinópolis,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Peixe
+3529302,Matão,Araraquara,Central,Centro Norte,Tietê/Batalha
+3529401,Mauá,São Paulo,São Paulo,Sedes,Alto Tietê
+3529500,Mendonça,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Tietê/Batalha
+3529609,Meridiano,Fernandópolis,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3529658,Mesópolis,Jales ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3529708,Miguelópolis,Orlândia,Franca,Alta Mogiana,Sapucaí/Grande
+3529807,Mineiros do Tietê,Jaú,Bauru,Centro Oeste,Tietê/Jacaré
+3530003,Mira Estrela,Fernandópolis,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3529906,Miracatu,Registro,Registro,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3530102,Mirandópolis,Andradina,Araçatuba,Extemo Oeste,Baixo Tietê
+3530201,Mirante do Paranapanema,Presidente Venceslau,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3530300,Mirassol,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Turvo/Grande
+3530409,Mirassolândia,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Turvo/Grande
+3530508,Mococa,São João da Boa Vista,Campinas,Nordeste Paulista,Pardo
+3530607,Mogi das Cruzes,Mogi das Cruzes,São Paulo,Sedes,Alto Tietê
+3530706,Mogi Guaçu,Mogi Mirim,Campinas,Leste Paulista,Mogi Guaçú
+3530805,Mogi Mirim,Mogi Mirim,Campinas,Leste Paulista,Mogi Guaçú
+3530904,Mombuca,Piracicaba,Campinas,Centro Sul,Piracicaba/Capivari
+3531001,Monções,General Salgado,São José do Rio Preto,Noroeste Paulista,Baixo Tietê
+3531100,Mongaguá,São Paulo,Baixada Santista,Sedes,Baixada Santista
+3531209,Monte Alegre do Sul,Bragança Paulista,Campinas,Leste Paulista,Piracicaba/Capivari
+3531308,Monte Alto,Jaboticabal,Ribeirão Preto,Centro Norte,Turvo/Grande
+3531407,Monte Aprazível,São José do Rio Preto ,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3531506,Monte Azul Paulista,Barretos,Barretos,Alta Mogiana,Turvo/Grande
+3531605,Monte Castelo,Dracena,Presidente Prudente,Alta Paulista,Aguapeí
+3531803,Monte Mor,Campinas ,Campinas,Sedes,Piracicaba/Capivari
+3531704,Monteiro Lobato,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3531902,Morro Agudo,Orlândia,Franca,Alta Mogiana,Baixo Pardo/Grande
+3532009,Morungaba,Campinas ,Campinas,Leste Paulista,Piracicaba/Capivari
+3532058,Motuca,Araraquara,Central,Centro Leste,Mogi Guaçú
+3532108,Murutinga do Sul,Andradina,Araçatuba,Extemo Oeste,Baixo Tietê
+3532157,Nantes,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3532207,Narandiba,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3532306,Natividade da Serra,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3532405,Nazaré Paulista,Bragança Paulista,Campinas,Leste Paulista,Piracicaba/Capivari
+3532504,Neves Paulista,São José do Rio Preto ,São José do Rio Preto,Centro Norte,São José dos Dourados
+3532603,Nhandeara,General Salgado,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3532702,Nipoã,São José do Rio Preto ,São José do Rio Preto,Noroeste Paulista,Baixo Tietê
+3532801,Nova Aliança,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Tietê/Batalha
+3532827,Nova Campina,Itapeva ,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3532843,Nova Canaã Paulista,Jales ,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3532868,Nova Castilho,General Salgado,Araçatuba,Noroeste Paulista,São José dos Dourados
+3532900,Nova Europa,Araraquara,Central,Centro Norte,Tietê/Jacaré
+3533007,Nova Granada,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Turvo/Grande
+3533106,Nova Guataporanga,Dracena,Presidente Prudente,Alta Paulista,Aguapeí
+3533205,Nova Independência,Andradina,Araçatuba,Extemo Oeste,Aguapeí
+3533304,Nova Luzitânia,General Salgado,Araçatuba,Noroeste Paulista,Baixo Tietê
+3533403,Nova Odessa,Piracicaba,Campinas,Sedes,Piracicaba/Capivari
+3533254,Novais,Catanduva,São José do Rio Preto,Centro Norte,Turvo/Grande
+3533502,Novo Horizonte,Catanduva,São José do Rio Preto,Centro Norte,Tietê/Batalha
+3533601,Nuporanga,Orlândia,Franca,Alta Mogiana,Sapucaí/Grande
+3533700,Ocauçu,Marília ,Marília,Centro Oeste,Médio Paranapanema
+3533809,Óleo,Ourinhos ,Marília,Médio Paranapanema,Médio Paranapanema
+3533908,Olímpia,Barretos,Barretos,Alta Mogiana,Turvo/Grande
+3534005,Onda Verde,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Turvo/Grande
+3534104,Oriente,Marília ,Marília,Alta Paulista,Peixe
+3534203,Orindiúva,Votuporanga ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3534302,Orlândia,Orlândia,Franca,Alta Mogiana,Baixo Pardo/Grande
+3534401,Osasco,São Paulo,São Paulo,Sedes,Alto Tietê
+3534500,Oscar Bressane,Marília ,Marília,Médio Paranapanema,Peixe
+3534609,Osvaldo Cruz,Tupã,Presidente Prudente,Alta Paulista,Peixe
+3534708,Ourinhos,Ourinhos ,Marília,Médio Paranapanema,Médio Paranapanema
+3534807,Ouro Verde,Dracena,Presidente Prudente,Alta Paulista,Peixe
+3534757,Ouroeste,Fernandópolis,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3534906,Pacaembu,Dracena,Presidente Prudente,Alta Paulista,Aguapeí
+3535002,Palestina,São José do Rio Preto ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3535101,Palmares Paulista,Catanduva,São José do Rio Preto,Centro Norte,Turvo/Grande
+3535200,Palmeira D'Oeste,Jales ,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3535309,Palmital,Assis,Marília,Médio Paranapanema,Médio Paranapanema
+3535408,Panorama,Dracena,Presidente Prudente,Alta Paulista,Aguapeí
+3535507,Paraguaçu Paulista,Assis,Marília,Médio Paranapanema,Médio Paranapanema
+3535606,Paraibuna,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3535705,Paraíso,Catanduva,São José do Rio Preto,Centro Norte,Turvo/Grande
+3535804,Paranapanema,Avaré,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3535903,Paranapuã,Jales ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3536000,Parapuã,Tupã,Marília,Alta Paulista,Aguapeí
+3536109,Pardinho,Botucatu,Sorocaba,Centro Sul,Médio Paranapanema
+3536208,Pariquera-Açu,Registro,Registro,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3536257,Parisi,Votuporanga ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3536307,Patrocínio Paulista,Franca ,Franca,Nordeste Paulista,Sapucaí/Grande
+3536406,Paulicéia,Dracena,Presidente Prudente,Alta Paulista,Aguapeí
+3536505,Paulínia,Campinas ,Campinas,Sedes,Piracicaba/Capivari
+3536570,Paulistânia,Bauru,Bauru,Centro Oeste,Tietê/Jacaré
+3536604,Paulo de Faria,Votuporanga ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3536703,Pederneiras,Bauru,Bauru,Centro Oeste,Tietê/Jacaré
+3536802,Pedra Bela,Bragança Paulista,Campinas,Leste Paulista,Piracicaba/Capivari
+3536901,Pedranópolis,Fernandópolis,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3537008,Pedregulho,Franca ,Franca,Nordeste Paulista,Sapucaí/Grande
+3537107,Pedreira,Bragança Paulista,Campinas,Leste Paulista,Piracicaba/Capivari
+3537156,Pedrinhas Paulista,Assis,Marília,Médio Paranapanema,Médio Paranapanema
+3537206,Pedro de Toledo,Registro,Registro,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3537305,Penápolis,Araçatuba,Araçatuba,Extemo Oeste,Baixo Tietê
+3537404,Pereira Barreto,Andradina,Araçatuba,Extemo Oeste,Baixo Tietê
+3537503,Pereiras,Botucatu,Sorocaba,Centro Sul,Tietê/Sorocaba
+3537602,Peruíbe,São Paulo,Baixada Santista,Vale do Ribeira,Baixada Santista
+3537701,Piacatu,Araçatuba,Araçatuba,Extemo Oeste,Aguapeí
+3537800,Piedade,Sorocaba,Sorocaba,Sedes,Tietê/Sorocaba
+3537909,Pilar do Sul,Sorocaba,Sorocaba,Sudoeste Paulista,Alto Paranapanema
+3538006,Pindamonhangaba,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3538105,Pindorama,Catanduva,São José do Rio Preto,Centro Norte,Turvo/Grande
+3538204,Pinhalzinho,Bragança Paulista,Campinas,Leste Paulista,Piracicaba/Capivari
+3538303,Piquerobi,Presidente Venceslau,Presidente Prudente,Alta Sorocabana,Peixe
+3538501,Piquete,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3538600,Piracaia,Bragança Paulista,Campinas,Leste Paulista,Piracicaba/Capivari
+3538709,Piracicaba,Piracicaba,Campinas,Centro Sul,Piracicaba/Capivari
+3538808,Piraju,Ourinhos ,Itapeva,Médio Paranapanema,Alto Paranapanema
+3538907,Pirajuí,Lins,Bauru,Centro Oeste,Tietê/Batalha
+3539004,Pirangi,Barretos,Barretos,Centro Norte,Turvo/Grande
+3539103,Pirapora do Bom Jesus,São Paulo,São Paulo,Sedes,Alto Tietê
+3539202,Pirapozinho,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3539301,Pirassununga,Limeira,Campinas,Centro Leste,Mogi Guaçú
+3539400,Piratininga,Bauru,Bauru,Centro Oeste,Tietê/Batalha
+3539509,Pitangueiras,Barretos,Ribeirão Preto,Alta Mogiana,Mogi Guaçú
+3539608,Planalto,General Salgado,São José do Rio Preto,Noroeste Paulista,Baixo Tietê
+3539707,Platina,Assis,Marília,Médio Paranapanema,Médio Paranapanema
+3539806,Poá,Mogi das Cruzes,São Paulo,Sedes,Alto Tietê
+3539905,Poloni,São José do Rio Preto ,São José do Rio Preto,Noroeste Paulista,Baixo Tietê
+3540002,Pompéia,Marília ,Marília,Alta Paulista,Aguapeí
+3540101,Pongaí,Lins,Bauru,Centro Oeste,Tietê/Batalha
+3540200,Pontal,Ribeirão Preto,Ribeirão Preto,Centro Leste,Mogi Guaçú
+3540259,Pontalinda,Jales ,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3540309,Pontes Gestal,Votuporanga ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3540408,Populina,Fernandópolis,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3540507,Porangaba,Itapetininga,Sorocaba,Centro Sul,Tietê/Sorocaba
+3540606,Porto Feliz,Sorocaba,Sorocaba,Centro Sul,Tietê/Sorocaba
+3540705,Porto Ferreira,Limeira,Central,Centro Leste,Mogi Guaçú
+3540754,Potim,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3540804,Potirendaba,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Tietê/Batalha
+3540853,Pracinha,Tupã,Presidente Prudente,Alta Paulista,Peixe
+3540903,Pradópolis,Ribeirão Preto,Ribeirão Preto,Centro Leste,Mogi Guaçú
+3541000,Praia Grande,São Paulo,Baixada Santista,Sedes,Baixada Santista
+3541059,Pratânia,Botucatu,Sorocaba,Centro Oeste,Tietê/Jacaré
+3541109,Presidente Alves,Bauru,Bauru,Centro Oeste,Tietê/Batalha
+3541208,Presidente Bernardes,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3541307,Presidente Epitácio,Presidente Venceslau,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3541406,Presidente Prudente,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3541505,Presidente Venceslau,Presidente Venceslau,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3541604,Promissão,Lins,Bauru,Centro Oeste,Baixo Tietê
+3541653,Quadra,Itapetininga,Sorocaba,Sudoeste Paulista,Tietê/Sorocaba
+3541703,Quatá,Assis,Marília,Médio Paranapanema,Médio Paranapanema
+3541802,Queiroz,Tupã,Marília,Alta Paulista,Aguapeí
+3541901,Queluz,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3542008,Quintana,Marília ,Marília,Alta Paulista,Aguapeí
+3542107,Rafard,Piracicaba,Campinas,Centro Sul,Piracicaba/Capivari
+3542206,Rancharia,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3542305,Redenção da Serra,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3542404,Regente Feijó,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3542503,Reginópolis,Bauru,Bauru,Centro Oeste,Tietê/Batalha
+3542602,Registro,Registro,Registro,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3542701,Restinga,Franca ,Franca,Nordeste Paulista,Sapucaí/Grande
+3542800,Ribeira,Itapeva ,Itapeva,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3542909,Ribeirão Bonito,Araraquara,Central,Centro Leste,Tietê/Jacaré
+3543006,Ribeirão Branco,Itapeva ,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3543105,Ribeirão Corrente,Franca ,Franca,Nordeste Paulista,Sapucaí/Grande
+3543204,Ribeirão do Sul,Ourinhos ,Marília,Médio Paranapanema,Médio Paranapanema
+3543238,Ribeirão dos Índios,Presidente Venceslau,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3543253,Ribeirão Grande,Itapetininga,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3543303,Ribeirão Pires,Mogi das Cruzes,São Paulo,Sedes,Alto Tietê
+3543402,Ribeirão Preto,Ribeirão Preto,Ribeirão Preto,Centro Leste,Pardo
+3543600,Rifaina,Franca ,Franca,Nordeste Paulista,Sapucaí/Grande
+3543709,Rincão,Araraquara,Central,Centro Leste,Mogi Guaçú
+3543808,Rinópolis,Tupã,Marília,Alta Paulista,Aguapeí
+3543907,Rio Claro,Limeira,Campinas,Centro Sul,Piracicaba/Capivari
+3544004,Rio das Pedras,Piracicaba,Campinas,Centro Sul,Piracicaba/Capivari
+3544103,Rio Grande da Serra,Mogi das Cruzes,São Paulo,Sedes,Alto Tietê
+3544202,Riolândia,Votuporanga ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3543501,Riversul,Itapeva ,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3544251,Rosana,Presidente Venceslau,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3544301,Roseira,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3544400,Rubiácea,Araçatuba,Araçatuba,Extemo Oeste,Baixo Tietê
+3544509,Rubinéia,Jales ,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3544608,Sabino,Lins,Bauru,Centro Oeste,Tietê/Batalha
+3544707,Sagres,Tupã,Presidente Prudente,Alta Paulista,Peixe
+3544806,Sales,Catanduva,São José do Rio Preto,Centro Norte,Tietê/Batalha
+3544905,Sales Oliveira,Orlândia,Franca,Alta Mogiana,Pardo
+3545001,Salesópolis,Mogi das Cruzes,São Paulo,Sedes,Alto Tietê
+3545100,Salmourão,Tupã,Presidente Prudente,Alta Paulista,Aguapeí
+3545159,Saltinho,Piracicaba,Campinas,Centro Sul,Piracicaba/Capivari
+3545209,Salto,Sorocaba,Sorocaba,Centro Sul,Piracicaba/Capivari
+3545308,Salto de Pirapora,Sorocaba,Sorocaba,Sedes,Tietê/Sorocaba
+3545407,Salto Grande,Ourinhos ,Marília,Médio Paranapanema,Médio Paranapanema
+3545506,Sandovalina,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3545605,Santa Adélia,Catanduva,São José do Rio Preto,Centro Norte,Turvo/Grande
+3545704,Santa Albertina,Jales ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3545803,Santa Bárbara D'Oeste,Piracicaba,Campinas,Centro Sul,Piracicaba/Capivari
+3546009,Santa Branca,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3546108,Santa Clara D'Oeste,Jales ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3546207,Santa Cruz da Conceição,Limeira,Campinas,Centro Sul,Mogi Guaçú
+3546256,Santa Cruz da Esperança,Ribeirão Preto,Ribeirão Preto,Centro Leste,Pardo
+3546306,Santa Cruz das Palmeiras,São João da Boa Vista,Campinas,Nordeste Paulista,Mogi Guaçú
+3546405,Santa Cruz do Rio Pardo,Ourinhos ,Marília,Médio Paranapanema,Médio Paranapanema
+3546504,Santa Ernestina,Jaboticabal,Central,Centro Leste,Tietê/Batalha
+3546603,Santa Fé do Sul,Jales ,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3546702,Santa Gertrudes,Limeira,Campinas,Centro Sul,Piracicaba/Capivari
+3546801,Santa Isabel,Mogi das Cruzes,São Paulo,Sedes,Paraíba do Sul
+3546900,Santa Lúcia,Araraquara,Central,Centro Leste,Mogi Guaçú
+3547007,Santa Maria da Serra,Piracicaba,Campinas,Centro Sul,Piracicaba/Capivari
+3547106,Santa Mercedes,Dracena,Presidente Prudente,Alta Paulista,Aguapeí
+3547502,Santa Rita do Passa Quatro,Ribeirão Preto,Central,Centro Leste,Mogi Guaçú
+3547403,Santa Rita D'Oeste,Jales ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3547601,Santa Rosa de Viterbo,Ribeirão Preto,Ribeirão Preto,Nordeste Paulista,Pardo
+3547650,Santa Salete,Jales ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3547205,Santana da Ponte Pensa,Jales ,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3547304,Santana de Parnaíba,São Paulo,São Paulo,Sedes,Alto Tietê
+3547700,Santo Anastácio,Presidente Venceslau,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3547809,Santo André,São Paulo,São Paulo,Sedes,Alto Tietê
+3547908,Santo Antônio da Alegria,Franca ,Ribeirão Preto,Nordeste Paulista,Sapucaí/Grande
+3548005,Santo Antônio de Posse,Mogi Mirim,Campinas,Leste Paulista,Piracicaba/Capivari
+3548054,Santo Antônio do Aracanguá,General Salgado,Araçatuba,Noroeste Paulista,Baixo Tietê
+3548104,Santo Antônio do Jardim,São João da Boa Vista,Campinas,Leste Paulista,Mogi Guaçú
+3548203,Santo Antônio do Pinhal,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Mantiqueira
+3548302,Santo Expedito,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Peixe
+3548401,Santópolis do Aguapeí,Araçatuba,Araçatuba,Extemo Oeste,Aguapeí
+3548500,Santos,São Paulo,Baixada Santista,Sedes,Baixada Santista
+3548609,São Bento do Sapucaí,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Mantiqueira
+3548708,São Bernardo do Campo,São Paulo,São Paulo,Sedes,Alto Tietê
+3548807,São Caetano do Sul,São Paulo,São Paulo,Sedes,Alto Tietê
+3548906,São Carlos,Araraquara,Central,Centro Leste,Tietê/Jacaré
+3549003,São Francisco,Jales ,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3549102,São João da Boa Vista,São João da Boa Vista,Campinas,Nordeste Paulista,Mogi Guaçú
+3549201,São João das Duas Pontes,Fernandópolis,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3549250,São João de Iracema,General Salgado,Araçatuba,Noroeste Paulista,São José dos Dourados
+3549300,São João do Pau D'Alho,Dracena,Presidente Prudente,Alta Paulista,Aguapeí
+3549409,São Joaquim da Barra,Orlândia,Franca,Alta Mogiana,Sapucaí/Grande
+3549508,São José da Bela Vista,Franca ,Franca,Nordeste Paulista,Sapucaí/Grande
+3549607,São José do Barreiro,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3549706,São José do Rio Pardo,São João da Boa Vista,Campinas,Nordeste Paulista,Pardo
+3549805,São José do Rio Preto,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Turvo/Grande
+3549904,São José dos Campos,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3549953,São Lourenço da Serra,Registro,São Paulo,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3550001,São Luís do Paraitinga,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3550100,São Manuel,Botucatu,Sorocaba,Centro Oeste,Tietê/Jacaré
+3550209,São Miguel Arcanjo,Itapetininga,Sorocaba,Sudoeste Paulista,Alto Paranapanema
+3550308,São Paulo,São Paulo,São Paulo,Sedes,Alto Tietê
+3550407,São Pedro,Piracicaba,Campinas,Centro Sul,Piracicaba/Capivari
+3550506,São Pedro do Turvo,Ourinhos ,Marília,Médio Paranapanema,Médio Paranapanema
+3550605,São Roque,Sorocaba,Sorocaba,Sedes,Tietê/Sorocaba
+3550704,São Sebastião,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Litoral Norte
+3550803,São Sebastião da Grama,São João da Boa Vista,Campinas,Nordeste Paulista,Pardo
+3550902,São Simão,Ribeirão Preto,Ribeirão Preto,Centro Leste,Pardo
+3551009,São Vicente,São Paulo,Baixada Santista,Sedes,Baixada Santista
+3551108,Sarapuí,Itapetininga,Sorocaba,Sudoeste Paulista,Tietê/Sorocaba
+3551207,Sarutaiá,Ourinhos ,Itapeva,Médio Paranapanema,Alto Paranapanema
+3551306,Sebastianópolis do Sul,General Salgado,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3551405,Serra Azul,Ribeirão Preto,Ribeirão Preto,Centro Leste,Pardo
+3551603,Serra Negra,Bragança Paulista,Campinas,Leste Paulista,Mogi Guaçú
+3551504,Serrana,Ribeirão Preto,Ribeirão Preto,Centro Leste,Pardo
+3551702,Sertãozinho,Ribeirão Preto,Ribeirão Preto,Centro Leste,Mogi Guaçú
+3551801,Sete Barras,Registro,Registro,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3551900,Severínia,Barretos,Barretos,Alta Mogiana,Turvo/Grande
+3552007,Silveiras,Guaratinguetá,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3552106,Socorro,Bragança Paulista,Campinas,Leste Paulista,Mogi Guaçú
+3552205,Sorocaba,Sorocaba,Sorocaba,Sedes,Tietê/Sorocaba
+3552304,Sud Mennucci,General Salgado,Araçatuba,Noroeste Paulista,Baixo Tietê
+3552403,Sumaré,Campinas ,Campinas,Sedes,Piracicaba/Capivari
+3552551,Suzanápolis,Andradina,Araçatuba,Extemo Oeste,São José dos Dourados
+3552502,Suzano,Mogi das Cruzes,São Paulo,Sedes,Alto Tietê
+3552601,Tabapuã,Catanduva,São José do Rio Preto,Centro Norte,Turvo/Grande
+3552700,Tabatinga,Araraquara,Central,Centro Norte,Tietê/Jacaré
+3552809,Taboão da Serra,São Paulo,São Paulo,Sedes,Alto Tietê
+3552908,Taciba,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3553005,Taguaí,Ourinhos ,Itapeva,Médio Paranapanema,Alto Paranapanema
+3553104,Taiaçu,Jaboticabal,Barretos,Centro Norte,Turvo/Grande
+3553203,Taiúva,Jaboticabal,Barretos,Centro Norte,Turvo/Grande
+3553302,Tambaú,São João da Boa Vista,Campinas,Nordeste Paulista,Pardo
+3553401,Tanabi,São José do Rio Preto ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3553500,Tapiraí,Sorocaba,Sorocaba,Vale do Ribeira,Ribeira de Iguape/Litoral Sul
+3553609,Tapiratiba,São João da Boa Vista,Campinas,Nordeste Paulista,Pardo
+3553658,Taquaral,Barretos,Ribeirão Preto,Alta Mogiana,Mogi Guaçú
+3553708,Taquaritinga,Jaboticabal,Central,Centro Norte,Tietê/Batalha
+3553807,Taquarituba,Avaré,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3553856,Taquarivaí,Itapeva ,Itapeva,Sudoeste Paulista,Alto Paranapanema
+3553906,Tarabai,Presidente Prudente ,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3553955,Tarumã,Assis,Marília,Médio Paranapanema,Médio Paranapanema
+3554003,Tatuí,Itapetininga,Sorocaba,Sudoeste Paulista,Tietê/Sorocaba
+3554102,Taubaté,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3554201,Tejupá,Ourinhos ,Itapeva,Médio Paranapanema,Alto Paranapanema
+3554300,Teodoro Sampaio,Presidente Venceslau,Presidente Prudente,Alta Sorocabana,Pontal do Paranapanema
+3554409,Terra Roxa,Barretos,Barretos,Alta Mogiana,Baixo Pardo/Grande
+3554508,Tietê,Piracicaba,Sorocaba,Centro Sul,Tietê/Sorocaba
+3554607,Timburi,Ourinhos ,Marília,Médio Paranapanema,Alto Paranapanema
+3554656,Torre de Pedra,Itapetininga,Sorocaba,Centro Sul,Tietê/Sorocaba
+3554706,Torrinha,Jaú,Campinas,Centro Oeste,Tietê/Jacaré
+3554755,Trabiju,Araraquara,Central,Centro Leste,Tietê/Jacaré
+3554805,Tremembé,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Paraíba do Sul
+3554904,Três Fronteiras,Jales ,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3554953,Tuiuti,Bragança Paulista,Campinas,Leste Paulista,Piracicaba/Capivari
+3555000,Tupã,Tupã,Marília,Alta Paulista,Aguapeí
+3555109,Tupi Paulista,Dracena,Presidente Prudente,Alta Paulista,Aguapeí
+3555208,Turiúba,General Salgado,Araçatuba,Noroeste Paulista,Baixo Tietê
+3555307,Turmalina,Fernandópolis,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3555356,Ubarana,São José do Rio Preto ,São José do Rio Preto,Centro Norte,Baixo Tietê
+3555406,Ubatuba,Pindamonhangaba ,São José dos Campos ,Vale do Paraiba,Litoral Norte
+3555505,Ubirajara,Bauru,Bauru,Médio Paranapanema,Médio Paranapanema
+3555604,Uchoa,Catanduva,São José do Rio Preto,Centro Norte,Turvo/Grande
+3555703,União Paulista,General Salgado,São José do Rio Preto,Noroeste Paulista,Baixo Tietê
+3555802,Urânia,Jales ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3555901,Uru,Lins,Bauru,Centro Oeste,Tietê/Batalha
+3556008,Urupês,Catanduva,São José do Rio Preto,Centro Norte,Tietê/Batalha
+3556107,Valentim Gentil,Votuporanga ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3556206,Valinhos,Campinas ,Campinas,Sedes,Piracicaba/Capivari
+3556305,Valparaíso,Andradina,Araçatuba,Extemo Oeste,Baixo Tietê
+3556354,Vargem,Bragança Paulista,Campinas,Leste Paulista,Piracicaba/Capivari
+3556404,Vargem Grande do Sul,São João da Boa Vista,Campinas,Nordeste Paulista,Pardo
+3556453,Vargem Grande Paulista,São Paulo,São Paulo,Sedes,Tietê/Sorocaba
+3556503,Várzea Paulista,Campinas ,Campinas,Sedes,Piracicaba/Capivari
+3556602,Vera Cruz,Marília ,Marília,Centro Oeste,Aguapeí
+3556701,Vinhedo,Campinas ,Campinas,Sedes,Piracicaba/Capivari
+3556800,Viradouro,Barretos,Barretos,Alta Mogiana,Baixo Pardo/Grande
+3556909,Vista Alegre do Alto,Jaboticabal,Barretos,Centro Norte,Turvo/Grande
+3556958,Vitória Brasil,Jales ,São José do Rio Preto,Noroeste Paulista,São José dos Dourados
+3557006,Votorantim,Sorocaba,Sorocaba,Sedes,Tietê/Sorocaba
+3557105,Votuporanga,Votuporanga ,São José do Rio Preto,Noroeste Paulista,Turvo/Grande
+3557154,Zacarias,General Salgado,São José do Rio Preto,Noroeste Paulista,Baixo Tietê
